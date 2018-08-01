@@ -1,0 +1,19 @@
+package com.baibhav.chicago.Il;
+
+public class CharacterDemo {
+
+	public static void main(String[] args) {
+		
+		String str= "success is my key";
+		
+		char[] ch = str.toCharArray();
+		
+		
+	   for(char i:ch){
+		   System.out.println(i);
+		   
+	   }
+
+	}
+
+}

@@ -1,0 +1,26 @@
+package com.baibhav.chicago.Il;
+
+import java.util.Arrays;
+
+public class CharacterDemo {
+
+	public static void main(String[] args) {
+		
+		String str1= "baibha";
+		String str2= "abiah";
+		
+		int[] temparray= new int[1110];
+		
+		char[] ch1 = str1.toCharArray();
+		char[] ch2 = str2.toCharArray();
+		
+		for(char i :ch1){
+			temparray[i]++;
+			
+		}
+		System.out.println(Arrays.toString(temparray));
+	
+
+	}
+
+}

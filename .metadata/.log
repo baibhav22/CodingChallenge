@@ -1,0 +1,39 @@
+!SESSION 2018-07-15 23:27:08.765 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/baibhavghimire/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data /Users/baibhavghimire/Documents/Projects/Test -product org.eclipse.epp.package.jee.product -keyring /Users/baibhavghimire/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2018-07-15 23:27:15.778
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 4 4 2018-07-15 23:32:35.168
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.ProblemView.
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2018-07-15 23:32:35.688
+!MESSAGE DDMS files not found: /Users/baibhavghimire/Desktop/eclipse/Eclipse.app/Contents/MacOS/platform-tools/adb /Users/baibhavghimire/Desktop/eclipse/Eclipse.app/Contents/MacOS/platform-tools/hprof-conv /Users/baibhavghimire/Desktop/eclipse/Eclipse.app/Contents/MacOS/tools/traceview 
+!SESSION 2018-07-16 14:01:46.391 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/baibhavghimire/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/baibhavghimire/Documents/Projects/Test -product org.eclipse.epp.package.jee.product -keyring /Users/baibhavghimire/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2018-07-16 14:01:54.462
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2018-07-16 14:02:02.947
+!MESSAGE DDMS files not found: /Users/baibhavghimire/Desktop/eclipse/Eclipse.app/Contents/MacOS/platform-tools/adb /Users/baibhavghimire/Desktop/eclipse/Eclipse.app/Contents/MacOS/platform-tools/hprof-conv /Users/baibhavghimire/Desktop/eclipse/Eclipse.app/Contents/MacOS/tools/traceview 
+!SESSION 2018-08-01 13:49:40.336 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/baibhavghimire/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data /Users/baibhavghimire/Documents/Projects/Test -product org.eclipse.epp.package.jee.product -keyring /Users/baibhavghimire/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2018-08-01 13:49:46.393
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

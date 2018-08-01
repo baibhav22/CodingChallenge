@@ -1,0 +1,38 @@
+package com.baibhav.chicago.Il;
+
+import java.util.Arrays;
+
+public class CharacterDemo {
+
+	public static void main(String[] args) {
+		
+		String str1= "baibha";    
+		String str2= "abiah";
+		
+		int[] temparray= new int[256];  // Ascii value is asigned a=97 b=98
+		
+		char[] ch1 = str1.toCharArray();
+		char[] ch2 = str2.toCharArray();
+		
+		for(char i :ch1){
+			temparray[i]++;
+			
+		}
+		for(char i1 :ch2){
+			temparray[i1]--;
+			
+		}
+		for(int x:temparray){
+			if(x!=0){
+				System.out.println("String are not anagram");
+			}
+			else{
+				System.out.println("System are anagram");
+			}
+		}
+		System.out.println(Arrays.toString(temparray));
+	
+
+	}
+
+}

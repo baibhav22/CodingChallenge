@@ -1,0 +1,20 @@
+package com.baibhav.chicago.Il;
+
+public class CharacterDemo {
+
+	public static void main(String[] args) {
+		
+		String str1= "baibha";
+		String str2= "abiah";
+		
+		int[] temparray= new int[256];
+		
+		char[] ch1 = str1.toCharArray();
+		char[] ch2 = str2.toCharArray();
+		
+		
+	
+
+	}
+
+}
