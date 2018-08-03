@@ -1,0 +1,27 @@
+package com.baibhav.chicago.Il;
+
+import java.util.Scanner;
+
+
+
+	 public class Solution{
+		public static void main(String []argh)
+		{
+			Scanner in = new Scanner(System.in);
+			System.out.println("Enter the number of entrees you want");
+			int n=in.nextInt();
+			in.nextLine();
+			for(int i=0;i<n;i++)
+			{
+				String name=in.nextLine();
+				Long phone=in.nextLong();
+				in.nextLine();
+			}
+		//	System.out.println("name:" +name + "Phone" + ""+ phone);
+			
+			
+		}
+	}
+
+
+
