@@ -10,7 +10,10 @@ public class Test {
 			sum +=newsum;
 		}
 		System.out.println("The sum is: "+ sum);
+		System.out.println("test nme");
 
 	}
+
+
 
 }
